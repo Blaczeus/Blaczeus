@@ -28,15 +28,10 @@ Full-stack software developer focused on building practical web applications and
 ---
 
 ## Featured projects
-- Optera — Job platform for managing job listings, applications, and admin workflows.  
-  👉 https://github.com/Blaczeus/optera
-
-- Tello — Simple and clean to‑do application with task management and a live hosted demo.  
-  👉 https://github.com/Blaczeus/tello  
-  🌍 Live demo: https://telloapp.nervego.net
-
-- CoupleVote — Frontend voting platform built for a startup to allow couples to receive votes from supporters.  
-  👉 https://github.com/Blaczeus/CoupleVote
+- [Optera](https://github.com/Blaczeus/optera) — Job platform for managing job listings, applications, and admin workflows.
+- [Tello](https://github.com/Blaczeus/tello) — Simple and clean to‑do application with task management.  
+  - Live demo: [telloapp.nervego.net](https://telloapp.nervego.net)
+- [CoupleVote](https://github.com/Blaczeus/CoupleVote) — Frontend voting platform built for a startup to allow couples to receive votes from supporters.
 
 ---
 
