@@ -1,8 +1,8 @@
-# Hi — I'm Blackzeus (Anya Joshua Chidiebere) 👋
+# Hi — I'm 𝝗𝝸𝝰𝞁𝝹𝘇𝝴𝝻𝘀 (Anya Joshua Chidiebere) 👋
 **Full-Stack Software Developer building practical software for real-world problems.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaczeus&layout=compact&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=Blaczeus&show_icons=true&count_private=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Blaczeus&show_icons=true&hide_border=true)
 
 ---
 
