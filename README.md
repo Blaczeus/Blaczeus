@@ -10,7 +10,7 @@
 Full-stack software developer focused on building practical web applications and clean backend systems. Experienced in delivering real-world products for startups and currently pursuing formal software engineering studies. I combine product-minded engineering with operational responsibility to ship useful, maintainable systems.
 
 - Location: Nigeria (GMT+1)  
-- Current: Operations Lead & Software Developer — Nervego  
+- Current: Operations Lead & Software Developer - Nervego  
 - Open to: Full‑time roles, freelance work, and collaboration opportunities (remote‑friendly)
 
 ---
@@ -28,10 +28,10 @@ Full-stack software developer focused on building practical web applications and
 ---
 
 ## Featured projects
-- [Optera](https://github.com/Blaczeus/optera) — Job platform for managing job listings, applications, and admin workflows.
-- [Tello](https://github.com/Blaczeus/tello) — Simple and clean to‑do application with task management.  
+- [Optera](https://github.com/Blaczeus/optera) - Job platform for managing job listings, applications, and admin workflows.
+- [Tello](https://github.com/Blaczeus/tello) - Simple and clean to‑do application with task management.  
   - Live demo: [telloapp.nervego.net](https://telloapp.nervego.net)
-- [CoupleVote](https://github.com/Blaczeus/CoupleVote) — Frontend voting platform built for a startup to allow couples to receive votes from supporters.
+- [CoupleVote](https://github.com/Blaczeus/CoupleVote) - Frontend voting platform built for a startup to allow couples to receive votes from supporters.
 
 ---
 
@@ -47,8 +47,8 @@ If you’d like to work together, the best way to reach me is by opening an issu
 ---
 
 ## Studies & approach
-Beginning formal software engineering studies this year — actively learning software architecture, system design, and scalable practices while shipping pragmatic products. My engineering approach is pragmatic: build small, iterate fast, and learn from real user feedback.
+Beginning formal software engineering studies this year - actively learning software architecture, system design, and scalable practices while shipping pragmatic products. My engineering approach is pragmatic: build small, iterate fast, and learn from real user feedback.
 
 ---
 
-Thanks for stopping by — feel free to explore my projects and open an issue if you want to collaborate.
+Thanks for stopping by - feel free to explore my projects and open an issue if you want to collaborate.
